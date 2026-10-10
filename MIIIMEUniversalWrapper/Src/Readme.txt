@@ -67,7 +67,7 @@ This program was created with AutoIt. Some antivirus programs may incorrectly de
 본 프로그램은 AutoIt으로 제작되었습니다. 일부 백신이 바이러스로 오진 할 수 있습니다.
 
 ========================================================================
-[Disclaimer]
+Disclaimer
 ========================================================================
 
 Provided **"AS IS"**, without warranty.
