@@ -1,6 +1,6 @@
 # MIIIME Universal Wrapper (MUW™)
 
-MIIIMEUniWrapper · 미메랩퍼
+MIIIMEWrapper · 미메랩퍼
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
