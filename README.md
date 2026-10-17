@@ -10,10 +10,10 @@ MIIIMEWrapper · 미메랩퍼
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-MIIIME Universal Wrapper is an auxiliary tool for portable launchers.
+This is  an auxiliary tool for portable launchers.
 Handles traces remaining after execution ends.
 
-미매래퍼는 포터블 런처의 보조도구입니다.
+포터블 런처의 보조도구입니다.
 실행 종료후 남는 흔적을 처리합니다.
 
 
